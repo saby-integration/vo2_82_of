@@ -1,0 +1,58 @@
+
+Репозиторий
+https://github.com/saby/v8unpack.git
+
+pip install v8unpack
+
+pip install --upgrade v8unpack
+
+Структура каталога:
+
+\83
+	\bin	
+	\core
+	\src
+	index.json 
+	build.cmd	
+	extract.cmd	
+	update_index.cmd	
+	
+bin - папка куда собирается/разбирается обработка
+core - папка с общими файлами
+src - папка с уникальными файлами обработки, вспомогательные файлы необходимые для сборки
+
+1. Выкачиваем core, src, index.json
+
+2. build.cmd
+v8unpack.exe -B src bin\Sbis1C_UF.epf --index index.json --version 803
+
+Результат: в bin собирается обработка Sbis1C_UF.epf
+
+3. Внесение изменений в обработку.
+
+4. extract.cmd
+v8unpack.exe -E bin\Sbis1C_UF.epf src --index index.json
+
+Результат: разбирается обработка с настройками из index.json, заменяются файлы в src и core.
+
+Если при доработке добавлялись новый формы, области, то 
+
+	4. update_index.cmd
+	v8unpack.exe -I src --index index.json --core core
+
+	Результат: в конец index.json добавились новый файлы и пути для сборки/разборки
+	При необходимости корректируем index.json, если файл будет браться из src,
+	то путь можно сделать пустым.
+	Например:
+	"src\\vo2\\СпособыОбмена\\SDK2Шифрование.obj.1c" -> ""
+
+	5. опять extract.cmd (если правился index.json)
+	Результат: разбирается обработка с новыми настройками из index.json, заменяются файлы в src и core.
+
+6. add, сommit & push папок core, src, index.json
+
+
+
+
+
+
