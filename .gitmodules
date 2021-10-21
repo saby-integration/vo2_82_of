@@ -1,0 +1,6 @@
+[submodule "v8unpack"]
+	path = v8unpack
+	url = https://github.com/saby-integration/v8unpack.git
+[submodule "core"]
+	path = core
+	url = https://github.com/saby-integration/vo2_core.git
