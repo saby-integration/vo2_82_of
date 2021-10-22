@@ -1,1 +1,1 @@
-v8unpack.exe -B src bin\Sbis1C_UF.epf --index index.json --version 803
+v8unpack.exe -B src bin\Sbis1C.epf --version 802 --index index.json 

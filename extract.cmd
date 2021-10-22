@@ -1,1 +1,1 @@
-v8unpack.exe -E bin\Sbis1C_UF.epf src --index index.json
+v8unpack.exe -E bin\Sbis1C.epf src --index index.json
