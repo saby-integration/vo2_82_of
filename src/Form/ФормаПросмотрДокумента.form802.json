@@ -16,7 +16,7 @@
             "\"Просмотр документа\""
           ]
         ],
-        "119",
+        "121",
         "4294967295"
       ],
       [
@@ -436,7 +436,7 @@
           ]
         ],
         [
-          "20",
+          "21",
           [
             "09ccdc77-ea1a-4a6d-ab1c-3435eada2433",
             "4",
@@ -1171,7 +1171,7 @@
               "0",
               "0",
               "0",
-              "15",
+              "19",
               "0",
               "0"
             ],
@@ -1184,7 +1184,7 @@
               "0"
             ],
             [
-              "14",
+              "15",
               [
                 "d92a805c-98ae-4750-9158-d9ce7cec2f20",
                 "5",
@@ -2189,7 +2189,179 @@
                       "0",
                       "0",
                       [
-                        "17",
+                        "19",
+                        [
+                          "737535a4-21e6-4971-8513-3e3173a9fedd",
+                          [
+                            "8",
+                            [
+                              "8",
+                              [
+                                "16",
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                "24",
+                                "17",
+                                "-1",
+                                "-1",
+                                "-1",
+                                "12590592",
+                                [
+                                  "3",
+                                  "0",
+                                  [
+                                    "0"
+                                  ],
+                                  "\"\"",
+                                  "-1",
+                                  "-1",
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "3",
+                                  "0",
+                                  [
+                                    "0"
+                                  ],
+                                  "\"\"",
+                                  "-1",
+                                  "-1",
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "3",
+                                  "0",
+                                  [
+                                    "0"
+                                  ],
+                                  "\"\"",
+                                  "-1",
+                                  "-1",
+                                  "1",
+                                  "0"
+                                ],
+                                "16",
+                                "16",
+                                "d2314b5d-8da4-4e0f-822b-45e7500eae09",
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "6",
+                                  "3",
+                                  "0",
+                                  "1"
+                                ],
+                                [
+                                  "6",
+                                  "3",
+                                  "0",
+                                  "1"
+                                ],
+                                [
+                                  "6",
+                                  "3",
+                                  "0",
+                                  "1"
+                                ],
+                                "0",
+                                "0",
+                                "0",
+                                "4",
+                                "0",
+                                "\"Отмечен\"",
+                                [
+                                  ""
+                                ],
+                                "4",
+                                "0",
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "\"Pattern\"",
+                                  [
+                                    "\"B\""
+                                  ]
+                                ],
+                                "0",
+                                "1",
+                                "35af3d93-d7c7-4a2e-a8eb-bac87a1a3f26",
+                                [
+                                  [
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNjU9LCoBACG0ddBMFdaxmrtPvEjEna9GRWrdrPlRQLVLx8R6Kz73IsS3rzFCVcy4mSMyARiBflf6LN2AgjPrQfky/uYmA7VMQvhXKKwFjqjUsPTmUup1QO3HYiSUUq8Ng3Tj1PKZFhnxGTxIeSk4jkL98HA=="
+                                  ],
+                                  "0"
+                                ]
+                              ],
+                              [
+                                "-1"
+                              ],
+                              [
+                                "-1"
+                              ],
+                              [
+                                "-1"
+                              ]
+                            ],
+                            "\"\"",
+                            "\"Отмечен\"",
+                            "\"\"",
+                            "0"
+                          ]
+                        ],
                         [
                           "737535a4-21e6-4971-8513-3e3173a9fedd",
                           [
@@ -3631,7 +3803,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU/BDYMwDGy/SCyRdyLFSYB4iaqfDkBbvn1U/FAm66ObdIWuUGxDKkDEkSyfz77z53jg9329B9RlMahz2/fd86G4OCkNlfbaprJIhMgHqy1VXgdKubuuaxrVkGa2p2Sc2+Nva5lo1oCDPwKMQCSVMRiFybEDARchmNw1CrI3dVEpZ6UyKx9qxRj1DNCHSWqvlWeXruats392j21TB393BrBDE6rOmRjRGxft9YaAVYsN8cLGqhWzvG7ayBog2qKYfg=="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU/BDYMwDGy/lVgi70SKkwDxElU/HYC2fPuo+KFM1kc36QpdodgOIEDEkSyffb7z93jg93t/etTFqVeXpuva11NxcVYaSu21TcUpESIfrLZUeR0oTd11XRFVQxqnPSXj3N78thZGvQYczAgwApFUhmAUsmMHAi5CMLlrEGRv6qrSlNVwtZ6ZrGLFGPUM0IcstdeauEtX49bRP7vHpq6CfzgD2KIJZetMjOiNi/Z2R8CywZrmwsaqJdW8Lm9kDRBtUUx/"
                                   ],
                                   "0"
                                 ]
@@ -3814,7 +3986,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU/BDYMwDGy/SCyRdyLFToB4iaqfDkBbvn1U/FAm66ObdIWuUGJDKkDEkSyfz77z53jg9329B9JlMahz2/fd86G4OCkNlUZtY1nEhMgHq22qnPYp5e66rrUbiRBntkvJIO7xt7VMNGsA4Y8AIxCSyhiMwuQYQcBFCCZ3jYLsTV1UzFmpzMqHWjGWegbSh0lqr5Vnl67mrbN/dk9tU3t3RwPUkfFVhyYEcgaDvd4IqGqpSTy/sWrFLK+bNrIGiLYoxh8="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfI7EhxkrbxJRALByjQlQF1q3IyBm7CFbgCsdOP2qpxJMvPz37P3+NB3u/96QmKU68uTde1r6eS4qwAS7BgYnGKjOSPBgxXDjynqbuuK3CJiHFkO07a2j3+ts4T9RqwOCMoCAZWSSEoDo4tZnARGct3JUHxpq4qTlmlq2GeFBWTjXFPI38cpPZa0+zS1bh19C/uqakr7x5WI7WkfdlaHQI5bYO53QmpbKhmnt9YNaw6rBs2igZm7awY/w=="
                                   ],
                                   "0"
                                 ]
@@ -3997,7 +4169,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU/BDYMwDGy/SCyRdyLFToB4iaqfDkBbvn1U/FAm66ObdIWuUGJDKkDEkSyfz77z53jg9329B9JlMahz2/fd86G4OCkNlUZtY1nEhMgHq22qnPYp5e66rrUbiRBntkvJIO7xt7VMNGsA4Y8AIxCSyhiMwuQYQcBFCCZ3jYLsTV1UzFmpzMqHWjGWegbSh0lqr5Vnl67mrbN/dk9tU3t3RwPUkfFVhyYEcgaDvd4IqGqpSTy/sWrFLK+bNrIGiLYoxh8="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfI7EhxkrbxJRALByjQlQF1q3IyBm7CFbgCsdOP2qpxJMvPz37P3+NB3u/96QmKU68uTde1r6eS4qwAS7BgYnGKjOSPBgxXDjynqbuuK3CJiHFkO07a2j3+ts4T9RqwOCMoCAZWSSEoDo4tZnARGct3JUHxpq4qTlmlq2GeFBWTjXFPI38cpPZa0+zS1bh19C/uqakr7x5WI7WkfdlaHQI5bYO53QmpbKhmnt9YNaw6rBs2igZm7awY/w=="
                                   ],
                                   "0"
                                 ]
@@ -4360,7 +4532,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU/BDYMwDGy/SCyRdyLFToB4iaqfDkBbvn1U/FAm66ObdIWuUGJDKkDEkSyfz77z53jg9329B9JlMahz2/fd86G4OCkNlUZtY1nEhMgHq22qnPYp5e66rrUbiRBntkvJIO7xt7VMNGsA4Y8AIxCSyhiMwuQYQcBFCCZ3jYLsTV1UzFmpzMqHWjGWegbSh0lqr5Vnl67mrbN/dk9tU3t3RwPUkfFVhyYEcgaDvd4IqGqpSTy/sWrFLK+bNrIGiLYoxh8="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfI7EhxkrbxJRALByjQlQF1q3IyBm7CFbgCsdOP2qpxJMvPz37P3+NB3u/96QmKU68uTde1r6eS4qwAS7BgYnGKjOSPBgxXDjynqbuuK3CJiHFkO07a2j3+ts4T9RqwOCMoCAZWSSEoDo4tZnARGct3JUHxpq4qTlmlq2GeFBWTjXFPI38cpPZa0+zS1bh19C/uqakr7x5WI7WkfdlaHQI5bYO53QmpbKhmnt9YNaw6rBs2igZm7awY/w=="
                                   ],
                                   "0"
                                 ]
@@ -4543,7 +4715,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU/BDYMwDGy/SCyRdyLFToB4iaqfDkBbvn1U/FAm66ObdIWuUGJDKkDEkSyfz77z53jg9329B9JlMahz2/fd86G4OCkNlUZtY1nEhMgHq22qnPYp5e66rrUbiRBntkvJIO7xt7VMNGsA4Y8AIxCSyhiMwuQYQcBFCCZ3jYLsTV1UzFmpzMqHWjGWegbSh0lqr5Vnl67mrbN/dk9tU3t3RwPUkfFVhyYEcgaDvd4IqGqpSTy/sWrFLK+bNrIGiLYoxh8="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfI7EhxkrbxJRALByjQlQF1q3IyBm7CFbgCsdOP2qpxJMvPz37P3+NB3u/96QmKU68uTde1r6eS4qwAS7BgYnGKjOSPBgxXDjynqbuuK3CJiHFkO07a2j3+ts4T9RqwOCMoCAZWSSEoDo4tZnARGct3JUHxpq4qTlmlq2GeFBWTjXFPI38cpPZa0+zS1bh19C/uqakr7x5WI7WkfdlaHQI5bYO53QmpbKhmnt9YNaw6rBs2igZm7awY/w=="
                                   ],
                                   "0"
                                 ]
@@ -5074,7 +5246,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdY87DsIwDIZhrdRLZE6kOOkjvgRi4QAFujKgblVOxsBNuAJXILbboLZqE8Xy78f/9XM88Pd9vUfUZTGqczcM/fOhODkpDVanE8sikiI3aUCZ1xWFXF3njfZpGGJ6uOopGOf2+re5TLRrwcFfYRIDgVyIlFKYiB2IuDiiyX8lQ2ZTFxVzVCp32RndChjVDNCFyWqvlGeXVPPWmZ/psWubyt+dAezRVHXvTAjojQv2ekPAusOW+qoNqhVYXjdtZA8Qb3GMPw=="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfInEhxkrbxJRALByjQlQF1q3IyBm7CFbgCsd2P2qqJFes9x37P3+OBz+/96VEXp15dmq5rX0/F4Kw0WJ1vKk6JGInMASGvA6WpusaV9rkZUn646ikZ5/b+b7F01GvCwcywEwORVMgpQRgcOxBycYWTvbIge1NXlaas8tZ67mQVK8aoZoACBqm90tS7dDVOHf2ze2zqKviHM4AtmlC2zsSI3rhob3cELBus6V/YWLWkOowbJrIGiLYopj8="
                                   ],
                                   "0"
                                 ]
@@ -5266,6 +5438,182 @@
                               ]
                             ],
                             "\"Код\"",
+                            "\"\"",
+                            "\"\"",
+                            "0"
+                          ]
+                        ],
+                        [
+                          "737535a4-21e6-4971-8513-3e3173a9fedd",
+                          [
+                            "8",
+                            [
+                              "8",
+                              [
+                                "16",
+                                [
+                                  "1",
+                                  "1",
+                                  [
+                                    "\"ru\"",
+                                    "\"GTIN\""
+                                  ]
+                                ],
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                "1e2",
+                                "18",
+                                "-1",
+                                "-1",
+                                "-1",
+                                "12589056",
+                                [
+                                  "3",
+                                  "0",
+                                  [
+                                    "0"
+                                  ],
+                                  "\"\"",
+                                  "-1",
+                                  "-1",
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "3",
+                                  "0",
+                                  [
+                                    "0"
+                                  ],
+                                  "\"\"",
+                                  "-1",
+                                  "-1",
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "3",
+                                  "0",
+                                  [
+                                    "0"
+                                  ],
+                                  "\"\"",
+                                  "-1",
+                                  "-1",
+                                  "1",
+                                  "0"
+                                ],
+                                "16",
+                                "16",
+                                "d2314b5d-8da4-4e0f-822b-45e7500eae09",
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "3",
+                                  "4",
+                                  [
+                                    "0"
+                                  ]
+                                ],
+                                [
+                                  "6",
+                                  "3",
+                                  "0",
+                                  "1"
+                                ],
+                                [
+                                  "6",
+                                  "3",
+                                  "0",
+                                  "1"
+                                ],
+                                [
+                                  "6",
+                                  "3",
+                                  "0",
+                                  "1"
+                                ],
+                                "1",
+                                "0",
+                                "0",
+                                "4",
+                                "0",
+                                "\"GTIN\"",
+                                [
+                                  ""
+                                ],
+                                "15",
+                                "0",
+                                [
+                                  "1",
+                                  "0"
+                                ],
+                                [
+                                  "\"Pattern\"",
+                                  [
+                                    "\"S\""
+                                  ]
+                                ],
+                                "0",
+                                "1",
+                                "381ed624-9217-4e63-85db-c4c3cb87daae",
+                                [
+                                  [
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNjU7BDcIwDIRvpS6RdyLFSdrGWyAhBijQLw/UX5XJeLAEe7ACtU0KbYVEHNm5s+O7x3bD53m7D6jLYlC7tu+760Ux2KtUFomecsFqIOR1oGJzd4lr7fU4msb0x/QaeyqmWRIOPgz7MBBJYwxmQcsOB0xKzvGNghhTB5WmqtRsiEWs+KKeAbrwVvrVmv7OTeWt2T6bx7apgz87A9ihCVXnTIzojYv2eELAqsWG5sLKqhWzvO69kTVAtEUxvQA="
+                                  ],
+                                  "0"
+                                ]
+                              ],
+                              [
+                                "-1"
+                              ],
+                              [
+                                "-1"
+                              ],
+                              [
+                                "-1"
+                              ]
+                            ],
+                            "\"GTIN\"",
                             "\"\"",
                             "\"\"",
                             "0"
@@ -7203,7 +7551,7 @@
                                 "381ed624-9217-4e63-85db-c4c3cb87daae",
                                 [
                                   [
-                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdVA7bgIxEI1QKiTusJqGxkYe27DrIl0OkCYH2CTbpkCkQr5FSkokLkAHEleYm+QK2Znx5rMIv5HH83/j+8mdnK/TZZvMbLqFp3az6dbvIMYj5Nk081MFnUG2goms3BAd2ysTTJ+a+0uigZX1/lb+ta0V9djh8dcjTCw2PKWHeNFoD4/qFOBIM6JSg2fIPxrgX5IMccqLYxZZsEy6FfJD7V9SQhXWH2CAPmn/MKcjHSvaKUxV0YEOCzrTea4/XjgMy0p9autVDG/eYuqSjcvO26ZJwfrGvbwmTMs21ZwXrxZzupq0Kx1dLruWT+vlGw=="
+                                    "#base64:AgFTS2/0iI3BTqDV67a9oKcNdVA7bgIxEI2iVEjcYTUNjR15xoZdF3QcIE0OsEm2TYFIhXyLlJRIXIAuSLnC3IQrsDP2JmgRfiOP5/88T48Pes4/v9toppMtvLSbTbf+BDVWkKaTJM8s6AyK5U0Q5Ybo2F4Yb/rU1F8a9aIs0b38WztX1GMH4b9HmVhsZEoP9aLJPQizU4EjLQiZGrxC+tMAhq6SdIjLvCRmUQTLpHshGmqvSSlVWH+BAf7m/XLGRz5WvMswVcUHPjzziU+zvPHCYfis1se2XgT/QRZjF22Yd2SbJnpLjXt7jxjnbawlL9x8zAnH0q50dKkspCytlws="
                                   ],
                                   "0"
                                 ]
@@ -7530,7 +7878,7 @@
                         "\"U\""
                       ],
                       "\"\"",
-                      "0",
+                      "2",
                       "1",
                       "0",
                       "0",
@@ -9940,6 +10288,293 @@
                 [
                   "0"
                 ]
+              ],
+              [
+                "35af3d93-d7c7-4a2e-a8eb-bac87a1a3f26",
+                "121",
+                [
+                  "1",
+                  [
+                    [
+                      [
+                        "10",
+                        "1",
+                        [
+                          "3",
+                          "4",
+                          [
+                            "0"
+                          ]
+                        ],
+                        [
+                          "3",
+                          "4",
+                          [
+                            "0"
+                          ]
+                        ],
+                        [
+                          "6",
+                          "3",
+                          "0",
+                          "1"
+                        ],
+                        "0",
+                        [
+                          "3",
+                          "3",
+                          [
+                            "-22"
+                          ]
+                        ],
+                        [
+                          "3",
+                          "4",
+                          [
+                            "0"
+                          ]
+                        ],
+                        [
+                          "3",
+                          "4",
+                          [
+                            "0"
+                          ]
+                        ],
+                        [
+                          "3",
+                          "3",
+                          [
+                            "-7"
+                          ]
+                        ],
+                        [
+                          "3",
+                          "3",
+                          [
+                            "-21"
+                          ]
+                        ],
+                        [
+                          "3",
+                          "0",
+                          [
+                            "0"
+                          ],
+                          "0",
+                          "0",
+                          "0",
+                          "48312c09-257f-4b29-b280-284dd89efc1e"
+                        ],
+                        [
+                          "1",
+                          "0"
+                        ]
+                      ],
+                      "4",
+                      [
+                        "1",
+                        "1",
+                        [
+                          "\"ru\"",
+                          "\"ОтметитьВсе\""
+                        ]
+                      ],
+                      "1",
+                      "0",
+                      "1"
+                    ],
+                    "1",
+                    "0",
+                    "0"
+                  ],
+                  [
+                    "1",
+                    [
+                      "2147483647",
+                      "e1692cc2-605b-4535-84dd-28440238746c",
+                      [
+                        "3",
+                        "\"ОтметитьВсеПриИзменении\"",
+                        [
+                          "1",
+                          "\"ОтметитьВсеПриИзменении\"",
+                          [
+                            "1",
+                            "1",
+                            [
+                              "\"ru\"",
+                              "\"Отметить все при изменении\""
+                            ]
+                          ],
+                          [
+                            "1",
+                            "1",
+                            [
+                              "\"ru\"",
+                              "\"Отметить все при изменении\""
+                            ]
+                          ],
+                          [
+                            "1",
+                            "1",
+                            [
+                              "\"ru\"",
+                              "\"Отметить все при изменении\""
+                            ]
+                          ],
+                          [
+                            "3",
+                            "0",
+                            [
+                              "0"
+                            ],
+                            "\"\"",
+                            "-1",
+                            "-1",
+                            "1",
+                            "0"
+                          ],
+                          [
+                            "0",
+                            "0",
+                            "0"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "8",
+                  "12",
+                  "81",
+                  "26",
+                  "96",
+                  "1",
+                  [
+                    "0",
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ],
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "0",
+                    [
+                      "2",
+                      "121",
+                      "0",
+                      "15"
+                    ],
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "0",
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ],
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "0",
+                    [
+                      "2",
+                      "121",
+                      "2",
+                      "14"
+                    ],
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "0",
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ],
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "0",
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ],
+                    [
+                      "2",
+                      "-1",
+                      "6",
+                      "0"
+                    ]
+                  ],
+                  "1",
+                  [
+                    "0",
+                    "121",
+                    "1"
+                  ],
+                  "0",
+                  "1",
+                  [
+                    "0",
+                    "121",
+                    "3"
+                  ],
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "12",
+                  "13",
+                  "0",
+                  "0"
+                ],
+                [
+                  "14",
+                  "\"ОтметитьВсе\"",
+                  "4294967295",
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0"
+                ]
               ]
             ]
           ],
@@ -12241,7 +12876,7 @@
                             "381ed624-9217-4e63-85db-c4c3cb87daae",
                             [
                               [
-                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdY9NDoIwEIV1S8Ilum6TzrRAewnjxgOgsnVh2JGezIUX8Q5eQWYGaoBQGiZv/t7Xz/HA5/t6D1GXxaDObd93z4dicVIatdU2lUWihFywGkg57Snk6lrX2o3DkMYfVx0Fg7jXv9Uy0awTCP8MkxgI5EKkJGEiRpDk4pMcP2v0YzR1USlHpXKTncmtcFHNAF2YnPZKeXYJNW+d8Rk+tk3t3R0NxC4aX3VoQojOYLDXW4RYtbGhPr9BtQLL66aN7AHiLY7pBw=="
+                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfInEixk7bxJRALByjQlQF1q3IyBi7CHbgCsdOP2qqJFes9f97L93iQ83t/etLFqVeXpuva11MJOCuN2mobi1NkIgdYDYyc9pym6hpX2qVhiOmRquNkEPf6tzhP1GsCYWbEiYHAKuyUIQyOETK5uJmTbyU9saauKk5ZqdQyD4qIzb64ZoADBqW90jS7NDVuHe2LeWrqyrsHGqCWjC9bNCGQMxjs7U5AZUM19/mNVcuqw7pho2hA1s6K8Q8="
                               ],
                               "0"
                             ]
@@ -12420,7 +13055,7 @@
                             "381ed624-9217-4e63-85db-c4c3cb87daae",
                             [
                               [
-                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdY87DsIwDIZhrdRLZE6kOOkjvgRi4QAFujKgblVOxsBNuAJXILbboLZqE8Xy78f/9XM88Pd9vUfUZTGqczcM/fOhODkpDVanE8sikiI3aUCZ1xWFXF3njfZpGGJ6uOopGOf2+re5TLRrwcFfYRIDgVyIlFKYiB2IuDiiyX8lQ2ZTFxVzVCp32RndChjVDNCFyWqvlGeXVPPWmZ/psWubyt+dAezRVHXvTAjojQv2ekPAusOW+qoNqhVYXjdtZA8Qb3GMPw=="
+                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfInEhxkrbxJRALByjQlQF1q3IyBm7CFbgCsd2P2qqJFes9x37P3+OBz+/96VEXp15dmq5rX0/F4Kw0WJ1vKk6JGInMASGvA6WpusaV9rkZUn646ikZ5/b+b7F01GvCwcywEwORVMgpQRgcOxBycYWTvbIge1NXlaas8tZ67mQVK8aoZoACBqm90tS7dDVOHf2ze2zqKviHM4AtmlC2zsSI3rhob3cELBus6V/YWLWkOowbJrIGiLYopj8="
                               ],
                               "0"
                             ]
@@ -12597,7 +13232,7 @@
                             "381ed624-9217-4e63-85db-c4c3cb87daae",
                             [
                               [
-                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdVE7DoMwDG3XSlwiXWMpjgMkt+jSAwSUjh0qNpSTdeiRKvUEJTFQoCK2bD0/f56Uz/GQ3/v56p0sTr24+K4Lj7vI4CykqWvdUGPgZjyBca0Cj74E2zalq7BE9BSLU0z97KgkJkTSpKQmdosrSXJojUPILKUEWu/1/2OeqLcFjb9KVgJo05XBchUl79CYi1NcIjbD0sRVxDkLsWrKRxTrShxgchwv7VHz7FrUtHWSn8Vb8tqVWoGqggVDxoKzrgXfhMoFG4iC5lXL70sr2EcBLHo+FL8="
+                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdZE7DsIwDEBhReolwhpLcZy2yS1YOEBahZEBdUM5GQNHQuIE1ElTaFFjy5b/T8p7v0vv9XjenawOd3HywxBuV5GCo5CmbXVHnYGL8QTG9Qo8+hps39WuwRrRU6wOkfuzopLIEUnDTpXqOm4kybE1jiZViR1ovdX/H+eJdp3Q+M0kEkDLV0ZJWZR5h8aULHbpWUxGE2cRZy/EPKIKucpcXANkxenSVmmeXUKVrQU/wVvy2tVagWqCBUPGgrOuB9+FxgUbiILOq36/j1dknQAy9HwofgA="
                               ],
                               "0"
                             ]
@@ -12776,7 +13411,7 @@
                             "381ed624-9217-4e63-85db-c4c3cb87daae",
                             [
                               [
-                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdY87DsIwDIZhrdRLZE6kOOkjvgRi4QAFujKgblVOxsBNuAJXILbboLZqE8Xy78f/9XM88Pd9vUfUZTGqczcM/fOhODkpDVanE8sikiI3aUCZ1xWFXF3njfZpGGJ6uOopGOf2+re5TLRrwcFfYRIDgVyIlFKYiB2IuDiiyX8lQ2ZTFxVzVCp32RndChjVDNCFyWqvlGeXVPPWmZ/psWubyt+dAezRVHXvTAjojQv2ekPAusOW+qoNqhVYXjdtZA8Qb3GMPw=="
+                                "#base64:AgFTS2/0iI3BTqDV67a9oKcNdU87DsIwDIUVqZfInEhxkrbxJRALByjQlQF1q3IyBm7CFbgCsd2P2qqJFes9x37P3+OBz+/96VEXp15dmq5rX0/F4Kw0WJ1vKk6JGInMASGvA6WpusaV9rkZUn646ikZ5/b+b7F01GvCwcywEwORVMgpQRgcOxBycYWTvbIge1NXlaas8tZ67mQVK8aoZoACBqm90tS7dDVOHf2ze2zqKviHM4AtmlC2zsSI3rhob3cELBus6V/YWLWkOowbJrIGiLYopj8="
                               ],
                               "0"
                             ]
@@ -13691,7 +14326,7 @@
               "0",
               "0",
               "8",
-              "11",
+              "12",
               "0",
               "1"
             ],
@@ -13843,7 +14478,7 @@
               "8",
               "5",
               "5",
-              "492",
+              "475",
               "34",
               "1",
               [
@@ -13888,7 +14523,7 @@
                   "2",
                   "71",
                   "2",
-                  "-600"
+                  "-482"
                 ]
               ],
               [
@@ -13897,7 +14532,7 @@
                   "2",
                   "0",
                   "2",
-                  "492"
+                  "475"
                 ],
                 [
                   "2",
@@ -14270,7 +14905,7 @@
               "0",
               "0",
               "2",
-              "14",
+              "15",
               "1",
               "1"
             ],
@@ -14591,7 +15226,7 @@
               "0",
               "0",
               "3",
-              "13",
+              "14",
               "1",
               "1"
             ],
@@ -15402,7 +16037,7 @@
               "0",
               "0",
               "6",
-              "12",
+              "13",
               "1",
               "1"
             ],
@@ -15791,7 +16426,7 @@
               "8",
               "85",
               "36",
-              "504",
+              "475",
               "59",
               "1",
               [
@@ -15845,7 +16480,7 @@
                   "2",
                   "0",
                   "3",
-                  "-490"
+                  "-519"
                 ],
                 [
                   "2",
@@ -15897,7 +16532,7 @@
               "0",
               "0",
               "9",
-              "5",
+              "6",
               "1",
               "0"
             ],
@@ -16155,7 +16790,7 @@
               "0",
               "0",
               "10",
-              "4",
+              "5",
               "1",
               "0"
             ],
@@ -16306,9 +16941,9 @@
                 "0",
                 [
                   "2",
-                  "-1",
-                  "6",
-                  "0"
+                  "97",
+                  "1",
+                  "15"
                 ],
                 [
                   "2",
@@ -16405,7 +17040,7 @@
               "0",
               "0",
               "11",
-              "7",
+              "8",
               "1",
               "0"
             ],
@@ -16668,7 +17303,7 @@
               "0",
               "0",
               "12",
-              "6",
+              "7",
               "0",
               "0"
             ],
@@ -16886,9 +17521,9 @@
                 "0",
                 [
                   "2",
-                  "-1",
-                  "6",
-                  "0"
+                  "97",
+                  "1",
+                  "38"
                 ],
                 [
                   "2",
@@ -16990,7 +17625,7 @@
               "0",
               "0",
               "13",
-              "9",
+              "10",
               "0",
               "0"
             ],
@@ -17253,7 +17888,7 @@
               "0",
               "0",
               "14",
-              "8",
+              "9",
               "0",
               "0"
             ],
@@ -17444,9 +18079,9 @@
             ],
             [
               "8",
-              "605",
+              "487",
               "10",
-              "644",
+              "526",
               "39",
               "1",
               [
@@ -17934,9 +18569,9 @@
             ],
             [
               "8",
-              "645",
+              "527",
               "2",
-              "992",
+              "874",
               "46",
               "1",
               [
@@ -17975,7 +18610,7 @@
                   "2",
                   "0",
                   "3",
-                  "-349"
+                  "-467"
                 ],
                 [
                   "2",
@@ -17990,7 +18625,7 @@
                   "2",
                   "0",
                   "3",
-                  "-2"
+                  "-120"
                 ],
                 [
                   "2",
@@ -18030,7 +18665,17 @@
                 ]
               ],
               "0",
-              "1",
+              "3",
+              [
+                "0",
+                "48",
+                "0"
+              ],
+              [
+                "0",
+                "61",
+                "0"
+              ],
               [
                 "0",
                 "119",
@@ -18042,7 +18687,12 @@
                 "71",
                 "2"
               ],
-              "0",
+              "1",
+              [
+                "0",
+                "120",
+                "2"
+              ],
               "0",
               "0",
               "0",
@@ -21004,7 +21654,7 @@
                   "1",
                   [
                     "6",
-                    "3d1aede5-59a3-4319-99d4-6bc5394e44f5",
+                    "2fae47bb-e26b-4003-966d-ca073b88c8c0",
                     "1",
                     "e1692cc2-605b-4535-84dd-28440238746c",
                     [
@@ -21081,7 +21731,7 @@
                     "4",
                     "0",
                     "1",
-                    "3d1aede5-59a3-4319-99d4-6bc5394e44f5",
+                    "2fae47bb-e26b-4003-966d-ca073b88c8c0",
                     [
                       "8",
                       "\"ЗаписатьВложение\"",
@@ -21343,7 +21993,7 @@
                   "1",
                   [
                     "6",
-                    "55fa4303-1d35-426d-a4da-d0ef18d8d9f3",
+                    "bd1023f5-226f-4ca3-8236-4ff56be15366",
                     "1",
                     "e1692cc2-605b-4535-84dd-28440238746c",
                     [
@@ -21420,7 +22070,7 @@
                     "4",
                     "0",
                     "1",
-                    "55fa4303-1d35-426d-a4da-d0ef18d8d9f3",
+                    "bd1023f5-226f-4ca3-8236-4ff56be15366",
                     [
                       "8",
                       "\"ЗаписатьВложение\"",
@@ -21904,13 +22554,595 @@
               "0",
               "0",
               "17",
-              "10",
+              "11",
               "0",
               "0"
             ],
             [
               "14",
               "\"ПереключитьТипВложений\"",
+              "4294967295",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "0"
+            ]
+          ],
+          [
+            "6ff79819-710e-4145-97cd-1618da79e3e2",
+            "120",
+            [
+              "1",
+              [
+                [
+                  "10",
+                  "1",
+                  [
+                    "3",
+                    "4",
+                    [
+                      "0"
+                    ]
+                  ],
+                  [
+                    "3",
+                    "4",
+                    [
+                      "0"
+                    ]
+                  ],
+                  [
+                    "6",
+                    "1",
+                    "3",
+                    [
+                      "0"
+                    ],
+                    "100",
+                    "\"Tahoma\"",
+                    "1"
+                  ],
+                  "1",
+                  [
+                    "3",
+                    "0",
+                    [
+                      "16777215"
+                    ]
+                  ],
+                  [
+                    "3",
+                    "4",
+                    [
+                      "0"
+                    ]
+                  ],
+                  [
+                    "3",
+                    "4",
+                    [
+                      "0"
+                    ]
+                  ],
+                  [
+                    "3",
+                    "0",
+                    [
+                      "16777215"
+                    ]
+                  ],
+                  [
+                    "3",
+                    "0",
+                    [
+                      "12276992"
+                    ]
+                  ],
+                  [
+                    "3",
+                    "0",
+                    [
+                      "0"
+                    ],
+                    "0",
+                    "0",
+                    "0",
+                    "48312c09-257f-4b29-b280-284dd89efc1e"
+                  ],
+                  [
+                    "1",
+                    "1",
+                    [
+                      "\"ru\"",
+                      "\"Техническая поддержка\""
+                    ]
+                  ]
+                ],
+                "10",
+                [
+                  "1",
+                  "1",
+                  [
+                    "\"ru\"",
+                    "\"Техподдержка\""
+                  ]
+                ],
+                "1",
+                "1",
+                "0",
+                "0",
+                "0",
+                [
+                  "3",
+                  "0",
+                  [
+                    "0"
+                  ],
+                  "\"\"",
+                  "-1",
+                  "-1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "0",
+                "1",
+                [
+                  "5",
+                  "9d64d84e-7466-4af6-8e4f-ea39babf1223",
+                  "3",
+                  "1",
+                  "3",
+                  [
+                    "6",
+                    "98fc522f-c5f6-4d47-912d-ecab68261808",
+                    "1",
+                    "e1692cc2-605b-4535-84dd-28440238746c",
+                    [
+                      "3",
+                      "\"КонтактыТП\"",
+                      [
+                        "1",
+                        "\"КонтактыТП\"",
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Контакты ТП\""
+                          ]
+                        ],
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Контакты ТП\""
+                          ]
+                        ],
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Контакты ТП\""
+                          ]
+                        ],
+                        [
+                          "3",
+                          "0",
+                          [
+                            "0"
+                          ],
+                          "\"\"",
+                          "-1",
+                          "-1",
+                          "1",
+                          "0"
+                        ],
+                        [
+                          "0",
+                          "0",
+                          "0"
+                        ]
+                      ]
+                    ],
+                    "7",
+                    [
+                      "1",
+                      "1",
+                      [
+                        "\"ru\"",
+                        "\"Контакты технической поддержки\""
+                      ]
+                    ],
+                    [
+                      "1",
+                      "1",
+                      [
+                        "\"ru\"",
+                        "\"Контакты технической поддержки\""
+                      ]
+                    ],
+                    [
+                      "3",
+                      "1",
+                      [
+                        "0",
+                        "6a248caf-0a7b-46ad-a595-74890ea202f7"
+                      ],
+                      "\"\"",
+                      "-1",
+                      "-1",
+                      "1",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "6",
+                    "86f1912f-95b1-4c26-b135-9d01456fcb24",
+                    "1",
+                    "e1692cc2-605b-4535-84dd-28440238746c",
+                    [
+                      "3",
+                      "\"РуководствоПользователя\"",
+                      [
+                        "1",
+                        "\"РуководствоПользователя\"",
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Руководство пользователя\""
+                          ]
+                        ],
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Руководство пользователя\""
+                          ]
+                        ],
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Руководство пользователя\""
+                          ]
+                        ],
+                        [
+                          "3",
+                          "0",
+                          [
+                            "0"
+                          ],
+                          "\"\"",
+                          "-1",
+                          "-1",
+                          "1",
+                          "0"
+                        ],
+                        [
+                          "0",
+                          "0",
+                          "0"
+                        ]
+                      ]
+                    ],
+                    "1",
+                    [
+                      "3",
+                      "1",
+                      [
+                        "0",
+                        "6ecee038-9722-4d80-bb91-7ee7046ec4c7"
+                      ],
+                      "\"\"",
+                      "-1",
+                      "-1",
+                      "1",
+                      "0"
+                    ]
+                  ],
+                  [
+                    "6",
+                    "fd8496cd-9252-452e-9b82-ef4acee79f39",
+                    "1",
+                    "e1692cc2-605b-4535-84dd-28440238746c",
+                    [
+                      "3",
+                      "\"сбисИнформацияДляТП\"",
+                      [
+                        "1",
+                        "\"сбисИнформацияДляТП\"",
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Сбис информация для ТП\""
+                          ]
+                        ],
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Сбис информация для ТП\""
+                          ]
+                        ],
+                        [
+                          "1",
+                          "1",
+                          [
+                            "\"ru\"",
+                            "\"Сбис информация для ТП\""
+                          ]
+                        ],
+                        [
+                          "3",
+                          "0",
+                          [
+                            "0"
+                          ],
+                          "\"\"",
+                          "-1",
+                          "-1",
+                          "1",
+                          "0"
+                        ],
+                        [
+                          "0",
+                          "0",
+                          "0"
+                        ]
+                      ]
+                    ],
+                    "1",
+                    [
+                      "3",
+                      "1",
+                      [
+                        "0",
+                        "8bdf1079-8fad-4d21-ad7f-4b2e4ecdce3d"
+                      ],
+                      "\"\"",
+                      "-1",
+                      "-1",
+                      "1",
+                      "0"
+                    ]
+                  ],
+                  "1",
+                  [
+                    "5",
+                    "31946946-0a9b-40a2-95cf-82f200778341",
+                    "0",
+                    "0",
+                    "3",
+                    "fd8496cd-9252-452e-9b82-ef4acee79f39",
+                    [
+                      "8",
+                      "\"ИнформацияДляТП\"",
+                      "0",
+                      "1",
+                      [
+                        "1",
+                        "1",
+                        [
+                          "\"ru\"",
+                          "\"Сохранить тех. информацию\""
+                        ]
+                      ],
+                      "1",
+                      "9d64d84e-7466-4af6-8e4f-ea39babf1223",
+                      "1",
+                      "1e2",
+                      "0",
+                      "0",
+                      "1",
+                      "0",
+                      "0",
+                      "0",
+                      "0"
+                    ],
+                    "98fc522f-c5f6-4d47-912d-ecab68261808",
+                    [
+                      "8",
+                      "\"Контакты\"",
+                      "0",
+                      "1",
+                      [
+                        "1",
+                        "1",
+                        [
+                          "\"ru\"",
+                          "\"Контакты\""
+                        ]
+                      ],
+                      "1",
+                      "9d64d84e-7466-4af6-8e4f-ea39babf1223",
+                      "2",
+                      "1e2",
+                      "0",
+                      "0",
+                      "1",
+                      "0",
+                      "0",
+                      "0",
+                      "0"
+                    ],
+                    "86f1912f-95b1-4c26-b135-9d01456fcb24",
+                    [
+                      "8",
+                      "\"РуководствоПользователя\"",
+                      "0",
+                      "1",
+                      [
+                        "1",
+                        "1",
+                        [
+                          "\"ru\"",
+                          "\"Руководство пользователя\""
+                        ]
+                      ],
+                      "0",
+                      "9d64d84e-7466-4af6-8e4f-ea39babf1223",
+                      "3",
+                      "1e2",
+                      "0",
+                      "0",
+                      "1",
+                      "0",
+                      "0",
+                      "0",
+                      "0"
+                    ],
+                    [
+                      "-1",
+                      "0",
+                      [
+                        "0"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "0"
+              ]
+            ],
+            [
+              "8",
+              "876",
+              "11",
+              "990",
+              "40",
+              "1",
+              [
+                "0",
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ],
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                "0",
+                [
+                  "2",
+                  "120",
+                  "0",
+                  "29"
+                ],
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                "0",
+                [
+                  "2",
+                  "97",
+                  "3",
+                  "2"
+                ],
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                "0",
+                [
+                  "2",
+                  "120",
+                  "2",
+                  "114"
+                ],
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                "0",
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ],
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ]
+              ],
+              [
+                "0",
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ],
+                [
+                  "2",
+                  "-1",
+                  "6",
+                  "0"
+                ]
+              ],
+              "1",
+              [
+                "0",
+                "120",
+                "1"
+              ],
+              "0",
+              "1",
+              [
+                "0",
+                "120",
+                "3"
+              ],
+              "0",
+              "0",
+              "0",
+              "0",
+              "18",
+              "4",
+              "0",
+              "0"
+            ],
+            [
+              "14",
+              "\"ТПМеню\"",
               "4294967295",
               "0",
               "0",
@@ -21929,15 +23161,15 @@
       "1",
       "4",
       "4",
-      "2690"
+      "2695"
     ],
     [
       [
         "1"
       ],
-      "46",
+      "48",
       [
-        "24",
+        "25",
         [
           [
             "1"
@@ -22299,10 +23531,25 @@
               "\"S\""
             ]
           ]
+        ],
+        [
+          [
+            "46"
+          ],
+          "0",
+          "0",
+          "1",
+          "\"ОтметитьВсе\"",
+          [
+            "\"Pattern\"",
+            [
+              "\"B\""
+            ]
+          ]
         ]
       ],
       [
-        "11",
+        "12",
         [
           "6",
           [
@@ -22399,6 +23646,15 @@
             "1",
             [
               "37"
+            ]
+          ]
+        ],
+        [
+          "121",
+          [
+            "1",
+            [
+              "46"
             ]
           ]
         ]
