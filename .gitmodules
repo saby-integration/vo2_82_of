@@ -1,4 +1,4 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/saby-integration/vo2_core.git
-    branch = rc-2.45.2
+    branch = rc-2.45.5
