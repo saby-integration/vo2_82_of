@@ -1,0 +1,788 @@
+{
+  "ExternalDataProcessor.data802.json": "",
+  "ExternalDataProcessor.json": "",
+  "ExternalDataProcessor.obj.1c": "local\\МодульОбъекта.obj.1c",
+  "Form": {
+    "API": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\API\\API.obj.1c",
+      "Form.props802.json": "src\\Form\\API\\Form.props802.json"
+    },
+    "ExtCom1C": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\ExtCom1C.obj.1c",
+      "Form.props802.json": "src\\Form\\ExtCom1C\\Form.props802.json"
+    },
+    "ExtSDK": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\ExtSDK.obj.1c",
+      "Form.props802.json": "src\\Form\\ExtSDK\\Form.props802.json"
+    },
+    "ExtSDK2": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\ExtSDK2.obj.1c",
+      "Form.props802.json": "src\\Form\\ExtSDK2\\Form.props802.json"
+    },
+    "ExtSDK2Crypto": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\ExtSDK2Crypto.obj.1c",
+      "Form.props802.json": "src\\Form\\ExtSDK2Crypto\\Form.props802.json"
+    },
+    "ExtSDKCrypto": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\ExtSDKCrypto.obj.1c",
+      "Form.props802.json": "src\\Form\\ExtSDKCrypto\\Form.props802.json"
+    },
+    "SDK2": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\SDK2.obj.1c",
+      "Form.props802.json": "src\\Form\\SDK2\\Form.props802.json"
+    },
+    "SDK2Шифрование": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\SDK2Шифрование.obj.1c",
+      "Form.props802.json": "src\\Form\\SDK2Шифрование\\Form.props802.json"
+    },
+    "ВнешнийИнтерфейс": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\API\\ВнешнийИнтерфейс.obj.1c",
+      "Form.props802.json": "src\\Form\\ВнешнийИнтерфейс\\Form.props802.json"
+    },
+    "Документ_ВозвратТоваровОтКлиента": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\ВозвратТоваровОтКлиента.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_ВозвратТоваровОтКлиента\\Form.props802.json"
+    },
+    "Документ_ВозвратТоваровОтПокупателя": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\ВозвратТоваровОтПокупателя.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_ВозвратТоваровОтПокупателя\\Form.props802.json"
+    },
+    "Документ_ЗаказКлиента": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\ЗаказКлиента.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_ЗаказКлиента\\Form.props802.json"
+    },
+    "Документ_ЗаказПокупателя": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Документ_ЗаказПокупателя\\Form.props802.json"
+    },
+    "Документ_НДС_СчетФактураПолученный": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Документ_НДС_СчетФактураПолученный\\Form.props802.json"
+    },
+    "Документ_ОказаниеУслуг": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\ОказаниеУслуг.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_ОказаниеУслуг\\Form.props802.json"
+    },
+    "Документ_ОтчетКомитентуОПродажах": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\ОтчетКомитентуОПродажах.obj.1c",
+      "Form.elements802.json": "src\\Form\\Документ_ОтчетКомитентуОПродажах\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\Документ_ОтчетКомитентуОПродажах\\Form.props802.json"
+    },
+    "Документ_ПоступлениеТоваровУслуг": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\ПоступлениеТоваровУслуг.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_ПоступлениеТоваровУслуг\\Form.props802.json"
+    },
+    "Документ_РеализацияУслуги": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\РеализацияУслуги.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_РеализацияУслуги\\Form.props802.json"
+    },
+    "Документ_СчетФактураПолученный": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\СчетФактураПолученный.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_СчетФактураПолученный\\Form.props802.json"
+    },
+    "Документ_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Документ\\Шаблон.obj.1c",
+      "Form.props802.json": "src\\Form\\Документ_Шаблон\\Form.props802.json"
+    },
+    "ИнтеграцияКаталог": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СпособыОбмена\\ИнтеграцияКаталог.obj.1c",
+      "Form.props802.json": "src\\Form\\ИнтеграцияКаталог\\Form.props802.json"
+    },
+    "МассоваяРассылка": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\МассоваяРассылка.obj.1c",
+      "Form.elements802.json": "src\\Form\\МассоваяРассылка\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\МассоваяРассылка\\Form.props802.json"
+    },
+    "РаботаСJSON": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\ОбщиеФункции\\JSON\\РаботаСJSON.obj.1c",
+      "Form.props802.json": "src\\Form\\РаботаСJSON\\Form.props802.json"
+    },
+    "РаботаСДокументами1С": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\РаботаСДокументами1С.obj.1c",
+      "Form.props802.json": "src\\Form\\РаботаСДокументами1С\\Form.props802.json"
+    },
+    "Раздел_Задачи_Задачи": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Задачи_Задачи\\Form.props802.json"
+    },
+    "Раздел_Задачи_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Задачи\\Раздел_Задачи_Шаблон.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Задачи_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Настройки_Настройки": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Настройки_Настройки\\Form.props802.json"
+    },
+    "Раздел_Настройки_Сервис": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Настройки_Сервис\\Form.props802.json"
+    },
+    "Раздел_Настройки_ФайлыНастроек": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Настройки_ФайлыНастроек\\Form.props802.json"
+    },
+    "Раздел_Отправленные_ДокОтгрИсх": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Отправленные_ДокОтгрИсх\\Form.props802.json"
+    },
+    "Раздел_Отправленные_ОтветыКонтрагентов": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Отправленные_ОтветыКонтрагентов\\Form.props802.json"
+    },
+    "Раздел_Отправленные_Отправленные": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Отправленные\\Раздел_Отправленные_Отправленные.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Отправленные_Отправленные\\Form.props802.json"
+    },
+    "Раздел_Отправленные_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Отправленные_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Отправленные_ЭТрН": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Отправленные\\Раздел_Отправленные_ЭТрН.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Отправленные_ЭТрН\\Form.props802.json"
+    },
+    "Раздел_Отчетность_Отчетность": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Отчетность_Отчетность\\Form.props802.json"
+    },
+    "Раздел_Отчетность_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Отчетность\\Раздел_Отчетность_Шаблон.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Отчетность_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Покупка_Покупка": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Покупка_Покупка\\Form.props802.json"
+    },
+    "Раздел_Покупка_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Покупка_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Полученные_ДокОтгрВх": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\Раздел_Полученные_ДокОтгрВх\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\Раздел_Полученные_ДокОтгрВх\\Form.props802.json"
+    },
+    "Раздел_Полученные_ЗаказВх": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Полученные_ЗаказВх\\Form.props802.json"
+    },
+    "Раздел_Полученные_Полученные": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Полученные\\Раздел_Полученные_Полученные.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Полученные_Полученные\\Form.props802.json"
+    },
+    "Раздел_Полученные_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Полученные\\Раздел_Полученные_Шаблон.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Полученные_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Полученные_ЭТрН": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Полученные\\Раздел_Полученные_ЭТрН.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Полученные_ЭТрН\\Form.props802.json"
+    },
+    "Раздел_Продажа_Продажа": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Продажа_Продажа\\Form.props802.json"
+    },
+    "Раздел_Продажа_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Продажа\\Раздел_Продажа_Шаблон.obj.1c",
+      "Form.props802.json": "src\\Form\\Раздел_Продажа_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Справочники_Номенклатура": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Справочники_Номенклатура\\Form.props802.json"
+    },
+    "Раздел_Справочники_Справочники": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Справочники_Справочники\\Form.props802.json"
+    },
+    "Раздел_Справочники_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Справочники_Шаблон\\Form.props802.json"
+    },
+    "Раздел_Учет_Учет": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Учет_Учет\\Form.props802.json"
+    },
+    "Раздел_Учет_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Раздел_Учет_Шаблон\\Form.props802.json"
+    },
+    "СопоставлениеНоменклатуры_ДБФ": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СопоставлениеНоменклатуры\\СопоставлениеНоменклатуры_ДБФ.obj.1c",
+      "Form.props802.json": "src\\Form\\СопоставлениеНоменклатуры_ДБФ\\Form.props802.json"
+    },
+    "СопоставлениеНоменклатуры_Регистры": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СопоставлениеНоменклатуры\\СопоставлениеНоменклатуры_Регистры.obj.1c",
+      "Form.props802.json": "src\\Form\\СопоставлениеНоменклатуры_Регистры\\Form.props802.json"
+    },
+    "СопоставлениеНоменклатуры_Справочники": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СопоставлениеНоменклатуры\\СопоставлениеНоменклатуры_Справочники.obj.1c",
+      "Form.props802.json": "src\\Form\\СопоставлениеНоменклатуры_Справочники\\Form.props802.json"
+    },
+    "СопоставлениеНоменклатуры_СуммовойУчет": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СопоставлениеНоменклатуры\\СопоставлениеНоменклатуры_СуммовойУчет.obj.1c",
+      "Form.props802.json": "src\\Form\\СопоставлениеНоменклатуры_СуммовойУчет\\Form.props802.json"
+    },
+    "Статусы_ДБФ": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СтатусыЭДО\\Статусы_ДБФ_УФ.obj.1c",
+      "Form.props802.json": "src\\Form\\Статусы_ДБФ\\Form.props802.json"
+    },
+    "Статусы_Регистры": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СтатусыЭДО\\Статусы_Регистры.obj.1c",
+      "Form.props802.json": "src\\Form\\Статусы_Регистры\\Form.props802.json"
+    },
+    "Статусы_СостоянияЭД": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\СтатусыЭДО\\Статусы_СостоянияЭД.obj.1c",
+      "Form.props802.json": "src\\Form\\Статусы_СостоянияЭД\\Form.props802.json"
+    },
+    "Таблица_РеестрДокументов": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Таблица_РеестрДокументов\\Form.props802.json"
+    },
+    "Таблица_РеестрСобытий": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Таблица_РеестрСобытий\\Form.props802.json"
+    },
+    "Файл_АктВР_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_АктВР_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_АктВР_3_01\\Form.props802.json"
+    },
+    "Файл_АктРасхождение_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_АктРасхождение_3_03.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_АктРасхождение_3_03\\Form.props802.json"
+    },
+    "Файл_АктСвер_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_АктСвер_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_АктСвер_3_01\\Form.props802.json"
+    },
+    "Файл_АктСверПолуч_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_АктСверПолуч_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_АктСверПолуч_3_01\\Form.props802.json"
+    },
+    "Файл_ИзмененияДолжности_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Файл_ИзмененияДолжности_3_03\\Form.props802.json"
+    },
+    "Файл_Конверт_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_Конверт_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_Конверт_3_01\\Form.props802.json"
+    },
+    "Файл_ВнутрДокумент_3_01": {
+      "Form.form803.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_ВнутрДокумент_3_01.obj.1c"
+    },
+    "Файл_ОтчКмт_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_ОтчКмт_3_01.obj.1c",
+      "Form.elements802.json": "src\\Form\\Файл_ОтчКмт_3_01\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\Файл_ОтчКмт_3_01\\Form.props802.json"
+    },
+    "Файл_ПриемНаРаботу_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Файл_ПриемНаРаботу_3_03\\Form.props802.json"
+    },
+    "Файл_ПриказНаУвольнение_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Файл_ПриказНаУвольнение_3_03\\Form.props802.json"
+    },
+    "Файл_ПриходныйОрдер_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_ПриходныйОрдер_3_03.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_ПриходныйОрдер_3_03\\Form.props802.json"
+    },
+    "Файл_РасходныйОрдер_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_РасходныйОрдер_3_03.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_РасходныйОрдер_3_03\\Form.props802.json"
+    },
+    "Файл_счФактКор_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_счФактКор_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_счФактКор_3_01\\Form.props802.json"
+    },
+    "Файл_СчФктр_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_СчФктр_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_СчФктр_3_01\\Form.props802.json"
+    },
+    "Файл_Шаблон": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_Шаблон.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_Шаблон\\Form.props802.json"
+    },
+    "Файл_Шаблон_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_Шаблон_3_03.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_Шаблон_3_03\\Form.props802.json"
+    },
+    "Файл_ЭДОСч_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\Файл_ЭДОСч_3_01\\Form.props802.json"
+    },
+    "Файл_ЭДОНакл_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_ЭДОНакл_3_01.obj.1c",
+      "Form.props802.json": "src\\Form\\Файл_ЭДОНакл_3_01\\Form.props802.json"
+    },
+    "Файл_ЭДОУПД_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Шаблоны\\Файл\\Файл_ЭДОУПД_3_01.obj.1c",
+      "Form.elements802.json": "src\\Form\\Файл_ЭДОУПД_3_01\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\Файл_ЭДОУПД_3_01\\Form.props802.json"
+    },
+    "ФайлыНастроекКаталог": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Настройки\\ФайлыНастроекКаталог.obj.1c",
+      "Form.props802.json": "src\\Form\\ФайлыНастроекКаталог\\Form.props802.json"
+    },
+    "ФайлыНастроекОбщее": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Настройки\\ФайлыНастроекОбщее.obj.1c",
+      "Form.props802.json": "src\\Form\\ФайлыНастроекОбщее\\Form.props802.json",
+      "Form.elements802.json": "src\\Form\\ФайлыНастроекОбщее\\Form.elements802.json"
+    },
+    "ФайлыНастроекСервер": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Настройки\\ФайлыНастроекСервер.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФайлыНастроекСервер\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФайлыНастроекСервер\\Form.props802.json"
+    },
+    "Форма_ВыборИзСписка": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\Форма_ВыборИзСписка\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\Форма_ВыборИзСписка\\Form.props802.json"
+    },
+    "Форма_ВывестиСписок": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\Форма_ВывестиСписок\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\Форма_ВывестиСписок\\Form.props802.json"
+    },
+    "ФормаАвторизация": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаАвторизация.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаАвторизация\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаАвторизация\\Form.props802.json"
+    },
+    "ФормаАдресаПоКЛАДР": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаАдресаПоКЛАДР\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаАдресаПоКЛАДР\\Form.props802.json"
+    },
+    "ФормаВариантЗагрузки": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаВариантЗагрузки\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаВариантЗагрузки\\Form.props802.json"
+    },
+    "ФормаВводаПинкода": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаВводаПинкода\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаВводаПинкода\\Form.props802.json"
+    },
+    "ФормаВыбораТоваров": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаВыбораТоваров\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаВыбораТоваров\\Form.props802.json"
+    },
+    "ФормаГлавноеОкно": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаГлавноеОкно.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаГлавноеОкно\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаГлавноеОкно\\Form.props802.json"
+    },
+    "ФормаДопОперации": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаДопОперации\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаДопОперации\\Form.props802.json"
+    },
+    "ФормаНастройкаСоединения": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаНастройкаСоединения.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаНастройкаСоединения\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаНастройкаСоединения\\Form.props802.json"
+    },
+    "ФормаНовости": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаНовости.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаНовости\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаНовости\\Form.props802.json"
+    },
+    "ФормаОтправкиКорреспонденции": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаОтправкиКорреспонденции.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаОтправкиКорреспонденции\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаОтправкиКорреспонденции\\Form.props802.json"
+    },
+    "ФормаОшибка": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаОшибка\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаОшибка\\Form.props802.json"
+    },
+    "ФормаПересылкаПакетов": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаПересылкаПакетов.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаПересылкаПакетов\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаПересылкаПакетов\\Form.props802.json"
+    },
+    "ФормаПереходы": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаПереходы\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаПереходы\\Form.props802.json"
+    },
+    "ФормаПредупреждения": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаПредупреждения\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаПредупреждения\\Form.props802.json"
+    },
+    "ФормаПросмотрДокумента": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаПросмотрДокумента.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаПросмотрДокумента\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаПросмотрДокумента\\Form.props802.json"
+    },
+    "ФормаПросмотрДокументов": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаПросмотрДокументов\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаПросмотрДокументов\\Form.props802.json"
+    },
+    "ФормаРезультатОтправки": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаРезультатОтправки\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаРезультатОтправки\\Form.props802.json"
+    },
+    "ФормаРезультатыСопоставления": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаРезультатыСопоставления.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаРезультатыСопоставления\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаРезультатыСопоставления\\Form.props802.json"
+    },
+    "ФормаСозданияКонтрагента": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаСозданияКонтрагента.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаСозданияКонтрагента\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаСозданияКонтрагента\\Form.props802.json"
+    },
+    "ФормаСопоставитьСДокументами1С": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаСопоставитьСДокументами1С.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаСопоставитьСДокументами1С\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаСопоставитьСДокументами1С\\Form.props802.json"
+    },
+    "ФормаСопоставитьСДокументом1С": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаСопоставитьСДокументом1С\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаСопоставитьСДокументом1С\\Form.props802.json"
+    },
+    "ФормаНастройкаEDI": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "",
+      "Form.elements802.json": "src\\Form\\ФормаНастройкаEDI\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаНастройкаEDI\\Form.props802.json"
+    },
+    "ФормаДлительныеОперации": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаДлительныеОперации.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаДлительныеОперации\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаДлительныеОперации\\Form.props802.json"
+    },
+    "Файл_УведомлОтгр_3_03": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\Файл_УведомлОтгр_3_03.obj.1c"
+    },
+    "Файл_ПодтверждениеЗаказа_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\Файл_ПодтверждениеЗаказа_3_01.obj.1c"
+    },
+    "Файл_СогласованиеЦен_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\Файл_СогласованиеЦен_3_01.obj.1c"
+    },
+    "Файл_УкдДис_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\Файл_УкдДис_3_01.obj.1c"
+    },
+    "Файл_УкдКсчфДис_3_01": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\Файл_УкдКсчфДис_3_01.obj.1c"
+    },
+    "ФормаНастройкиПодписания": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаНастройкиПодписания\\Form.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаНастройкиПодписания\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаНастройкиПодписания\\Form.props802.json"
+    },
+    "ЭлектроннаяПодписьНаКлиенте": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ЭлектроннаяПодписьНаКлиенте\\Form.obj.1c",
+      "Form.props802.json": "src\\Form\\ЭлектроннаяПодписьНаКлиенте\\Form.props802.json"
+    },
+    "ФормаСменыАккаунта": {
+      "Form.form802.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\vo2\\Формы\\ФормаСменыАккаунта.obj.1c",
+      "Form.elements802.json": "src\\Form\\ФормаСменыАккаунта\\Form.elements802.json",
+      "Form.props802.json": "src\\Form\\ФормаСменыАккаунта\\Form.props802.json"
+    },
+    "_____Функции_____": {
+      "Form.elements802.json": "src\\Form\\_____Функции_____\\Form.elements802.json",
+      "Form.form802.json": "src\\Form\\_____Функции_____\\Form.form802.json",
+      "Form.json": "src\\Form\\_____Функции_____\\Form.json",
+      "Form.obj.1c": "src\\Form\\_____Функции_____\\Form.obj.1c",
+      "Form.props802.json": "src\\Form\\_____Функции_____\\Form.props802.json"
+    },
+    "___Таблицы___": {
+      "Form.form802.json": "src\\Form\\___Таблицы___\\Form.form802.json",
+      "Form.json": "src\\Form\\___Таблицы___\\Form.json",
+      "Form.obj.1c": "src\\Form\\___Таблицы___\\Form.obj.1c",
+      "Form.props802.json": "src\\Form\\___Таблицы___\\Form.props802.json"
+    },
+    "ФормаПроблемСопоставления": {
+      "Form.elements802.json": "src\\Form\\ФормаПроблемСопоставления\\Form.elements802.json",
+      "Form.form802.json": "src\\Form\\ФормаПроблемСопоставления\\Form.form802.json",
+      "Form.json": "src\\Form\\ФормаПроблемСопоставления\\Form.json",
+      "Form.obj.1c": "",
+      "Form.props802.json": "src\\Form\\ФормаПроблемСопоставления\\Form.props802.json"
+    },
+    "ФормаНастройки": {
+      "Form.elements802.json": "src\\Form\\ФормаНастройки\\Form.elements802.json",
+      "Form.form802.json": "src\\Form\\ФормаНастройки\\Form.form802.json",
+      "Form.json": "src\\Form\\ФормаНастройки\\Form.json",
+      "Form.obj.1c": "core\\vo2\\Настройки\\ФормаНастройки.obj.1c",
+      "Form.props802.json": "src\\Form\\ФормаНастройки\\Form.props802.json"
+    },
+    "Файл_УпдДоп_3_01": {
+      "Form.form802.json": "src\\Form\\Файл_УпдДоп_3_01\\Form.form802.json",
+      "Form.json": "src\\Form\\Файл_УпдДоп_3_01\\Form.json",
+      "Form.obj.1c": "core\\Form\\Файл_УпдДоп_3_01\\Form.obj.1c"
+    },
+	"NativeAPI": {
+      "Form.form802.json": "src\\Form\\SabyHttpsClient\\Form.form802.json",
+      "Form.json": "src\\Form\\SabyHttpsClient\\Form.json",
+      "Form.obj.1c": "core\\vo2\\Формы\\SabyHttpsClient\\Form.obj.1c",
+      "Form.props802.json": "src\\Form\\SabyHttpsClient\\Form.props802.json"
+    },
+    "NativeSDK": {
+      "Form.form802.json": "src\\Form\\SabyPluginConnector\\Form.form802.json",
+      "Form.json": "src\\Form\\SabyPluginConnector\\Form.json",
+      "Form.obj.1c": "core\\vo2\\Формы\\SabyPluginConnector\\Form.obj.1c",
+      "Form.props802.json": "src\\Form\\SabyPluginConnector\\Form.props802.json"
+    },
+    "Раздел_Справочники_КонтрагентыСБИС": {
+      "Form.form802.json": "src\\Form\\Раздел_Справочники_КонтрагентыСБИС\\Form.form802.json",
+      "Form.json": "src\\Form\\Раздел_Справочники_КонтрагентыСБИС\\Form.json",
+      "Form.props802.json": "src\\Form\\Раздел_Справочники_КонтрагентыСБИС\\Form.props802.json",
+      "Form.obj.1c": "core\\vo2\\Раздел\\Справочники\\Раздел_Справочники_КонтрагентыСБИС.obj.1c"
+    }
+  },
+  "Template": {
+    "История.json": "",
+    "История.txt": "",
+    "МакетОшибки.json": "",
+    "МакетОшибки.txt": "core\\vo2\\Макеты\\МакетОшибки.txt",
+    "Новости.html": "core\\vo2\\Макеты\\Новости.html",
+    "Новости.json": "",
+    "ПротоколПроверкиИниФайлов.json": "",
+    "ПротоколПроверкиИниФайлов.txt": "core\\vo2\\Макеты\\ПротоколПроверкиИниФайлов.txt",
+    "История.bin": "src\\Template\\История.bin",
+    "МакетОшибки.bin": "src\\Template\\МакетОшибки.bin",
+    "ПротоколПроверкиИниФайлов.bin": "src\\Template\\ПротоколПроверкиИниФайлов.bin",
+    "Аккордеон83.json": "core\\vo3\\Аккордеон\\Аккордеон83.json",
+    "Аккордеон83.txt": "core\\vo3\\Аккордеон\\Аккордеон83.txt",
+    "Аккордеон82.json": "core\\vo3\\Аккордеон\\Аккордеон82.json",
+    "Аккордеон82.txt": "core\\vo3\\Аккордеон\\Аккордеон82.txt",
+    "СтруктураАккордеона.json": "src\\Template\\СтруктураАккордеона.json",
+    "СтруктураАккордеона.txt": "core\\vo2\\Макеты\\СтруктураАккордеона.txt"
+  }
+}
