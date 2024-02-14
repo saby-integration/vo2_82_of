@@ -1,0 +1,48 @@
+{
+  "uuid": "e2a1d081-84d7-4b2d-b314-b42b905c0ada",
+  "name": "SabyPluginConnector",
+  "name2": {
+    "ru": "Saby plugin connector"
+  },
+  "comment": "",
+  "h1_0": "0",
+  "h0": "0",
+  "h5": [],
+  "data": [
+    [
+      "1",
+      [
+        "1",
+        [
+          "0",
+          [
+            "9",
+            [
+              "0",
+              [
+                "0",
+                "0",
+                "e2a1d081-84d7-4b2d-b314-b42b905c0ada"
+              ],
+              "\"SabyPluginConnector\"",
+              [
+                "1",
+                "\"ru\"",
+                "\"Saby plugin connector\""
+              ],
+              "\"\""
+            ],
+            "0",
+            "0"
+          ],
+          [
+            "0"
+          ]
+        ]
+      ],
+      "0"
+    ]
+  ],
+  "code_encoding_obj": "utf-8-sig",
+  "code_info_obj": 1
+}

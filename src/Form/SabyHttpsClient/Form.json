@@ -1,0 +1,48 @@
+{
+  "uuid": "3a2fce47-eb26-4ada-bc85-3f8cdf92415f",
+  "name": "SabyHttpsClient",
+  "name2": {
+    "ru": "Saby https client"
+  },
+  "comment": "",
+  "h1_0": "0",
+  "h0": "0",
+  "h5": [],
+  "data": [
+    [
+      "1",
+      [
+        "1",
+        [
+          "0",
+          [
+            "9",
+            [
+              "0",
+              [
+                "0",
+                "0",
+                "3a2fce47-eb26-4ada-bc85-3f8cdf92415f"
+              ],
+              "\"SabyHttpsClient\"",
+              [
+                "1",
+                "\"ru\"",
+                "\"Saby https client\""
+              ],
+              "\"\""
+            ],
+            "0",
+            "0"
+          ],
+          [
+            "0"
+          ]
+        ]
+      ],
+      "0"
+    ]
+  ],
+  "code_encoding_obj": "utf-8-sig",
+  "code_info_obj": 1
+}
