@@ -1,0 +1,4 @@
+[submodule "core2"]
+	path = core2
+	url = https://git.sbis.ru/integration/vo2_core.git
+    branch = rc-24.2100
