@@ -1,0 +1,20 @@
+[submodule "core2"]
+	path = core2
+	url = git@git.sbis.ru:integration/vo2_core.git
+    branch = rc-26.4100
+[submodule "IntegrationBlockly"]
+	path = IntegrationBlockly
+	url = git@git.sbis.ru:integration/blockly_saby_blocks_1c.git
+    branch = rc-26.4100
+[submodule "BlocklyExecutor"]
+	path = BlocklyExecutor
+	url = git@git.sbis.ru:integration/blockly_executor_1c.git
+    branch = rc-26.4100
+[submodule "core"]
+	path = core
+	url = git@git.sbis.ru:integration/vo3_core.git
+    branch = rc-26.4100
+[submodule "edo"]
+	path = edo
+	url = git@git.sbis.ru:integration/ce_1c_edo.git
+	branch = rc-26.4100
